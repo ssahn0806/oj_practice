@@ -11,6 +11,7 @@ def solution(n):
 
     return dp_table[n]%1000000007
 
+    
 # X = A + B + C
 
 # X % Y = A%Y + B%Y + C%Y 
